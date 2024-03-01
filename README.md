@@ -1,2 +1,2 @@
-# Hello_World
+# Hello World
 Repository for practising the GitHub Flow
